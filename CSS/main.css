@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: ;
+}
+
+
+
+.example-block {
+width: 200px;
+height: 200px;
+background-coloR: gray;
+color: white;
+}
+.padding {
+    /*padding:20px; */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 60px;
+}
+
+.margin {
+    /* margin: 20px; */
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px; 
+}
